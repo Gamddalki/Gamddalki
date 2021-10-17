@@ -5,7 +5,8 @@
 </div>
 <div align=center>
   
-  [![Hannah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gamddalki)](https://github.com/Gamddalki/github-readme-stats)
+  [![Hannah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gamddalki&show_icons=true)](https://github.com/Gamddalki/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gamddalki&layout=compact)](https://github.com/Gamddalki/github-readme-stats)
   
 </div>
 <div align=center>
