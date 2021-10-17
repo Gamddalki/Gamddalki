@@ -27,12 +27,6 @@
   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 </div>
- <div align=center>
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gamddalki&layout=compact)](https://github.com/Gamddalki/github-readme-stats)
-
-</div>
-
 <div align=center>
 📫 
 </div>
