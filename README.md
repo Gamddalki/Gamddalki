@@ -1,14 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FC4A4A&height=270&section=header&text=Hannah%20Kim&fontSize=90&fontColor=ffffff)
 
 ### 🍓Education
-* **Ewha Womans University**, Seoul, Korea (2020.03 - present)
+* **Ewha Womans University**, Seoul, Korea (*2020.03 - present*)
   * Majoring in **Computer Science and Engineering & Humanities, Cultural Arts, and Media**
-* Ewha Womans University Game Development Club **KING** (2021.03 - present)
-* Ewha Womans University Korean Language Tutoring & Cultural Exchange Club **Hangeulassi** (2022.09 - 2023.07)
+* Ewha Womans University Game Development Club **KING** (*2021.03 - present*)
+* Ewha Womans University Korean Language Tutoring & Cultural Exchange Club **Hangeulassi** (*2022.09 - 2023.07*)
 
 ### 🍓Work Experiences
-* **Mildang PT** Intern (2021.11 - 2022.05)
-* **HCIL EWHA** Undergraduate Intern (2021.06 - 2021.09)
+* Edu-Tech Start-Up **Mildang PT** Intern (*2021.11 - 2022.05*)
+* **HCIL EWHA** Undergraduate Intern (*2021.06 - 2021.09*)
 
 ### 🍓Tech Stack
 <div align=center>
