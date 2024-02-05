@@ -2,7 +2,7 @@
 
 ### 🍓Education
 * **Ewha Womans University**, Seoul, Korea (2020.03 - present)
-  * Majoring in **Computer Engineering & Humanities, Cultural Arts, and Media**
+  * Majoring in **Computer Science and Engineering & Humanities, Cultural Arts, and Media**
 * Ewha Womans University Game Development Club **KING** (2021.03 - present)
 * Ewha Womans University Korean Language Tutoring & Cultural Exchange Club **Hangeulassi** (2022.09 - 2023.07)
 
