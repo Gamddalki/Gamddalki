@@ -32,5 +32,5 @@
 </div>
 
 ### 🍓Contact
-* Email: hannahk01@naver.com
+* Email: hannahk01@ewha.ac.kr
 * Blog: https://gamddalki.tistory.com/
