@@ -10,6 +10,11 @@
 * Edu-Tech Start-Up **Mildang PT** Intern (*2021.11 - 2022.05*)
 * **HCIL EWHA** Undergraduate Intern (*2021.06 - 2021.09*)
 
+### 🍓Papers
+* [**Prompirit: Automatic Prompt Engineering Assistance for Improving AI-Generated Art Reflecting User Emotion**](https://sites.google.com/view/prompirit/)
+  * Hannah Kim, Hyun Lee, Sunyu Pang and Uran Oh*
+  * _(2024 IEEE 25th International Conference on Information Reuse and Integration for Data Science (IRI))_
+
 ### 🍓Tech Stack
 <div align=center>
   
