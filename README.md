@@ -36,6 +36,6 @@
   
 </div>
 
-### 🍓Contact
+### 🍓Find Out More
+* Portfolio: https://gamddalki.github.io/hannahkim/
 * Email: hannahk01@ewha.ac.kr
-* Blog: https://gamddalki.tistory.com/
