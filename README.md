@@ -1,14 +1,19 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=FC4A4A&height=270&section=header&text=Hannah%20Kim&fontSize=90&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=FF2020&height=200&section=header&text=Hannah%20Kim&fontSize=50&fontColor=ffffff)
+
+*Crafting **experiential narrative architecture** through affective + user-centered systems*
 
 ### 🍓Education
-* **Ewha Womans University**, Seoul, Korea (*2020.03 - present*)
-  * Majoring in **Computer Science and Engineering & Humanities, Cultural Arts, and Media**
-* Ewha Womans University Game Development Club **KING** (*2021.03 - 2023.06*)
-* Ewha Womans University Korean Language Tutoring & Cultural Exchange Club **Hangeulassi** (*2022.09 - 2023.07*)
+* **Ewha Womans University**, Seoul, Korea (*Mar 2020 - present*)
+  * B.E., Computer Science and Engineering & B.A., Humanities, Cultural Arts, and Media
+  * Summa Cum Laude
+* Ewha Womans University Game Development Club **KING** (*Mar 2021 - Jun 2023*)
+* Ewha Womans University Korean Language Tutoring & Cultural Exchange Club **Hangeulassi** (*Sep 2022 - Jul 2023*)
 
 ### 🍓Work Experiences
-* Edu-Tech Start-Up **Mildang PT** Intern (*2021.11 - 2022.05*)
-* **HCIL EWHA** Undergraduate Intern (*2021.06 - 2021.09*)
+* **Audio & Interactive Media (AIM) Lab, EWHA** Undergraduate Intern (*Oct 2025 - present*)
+* Freelance Web Developer (*Feb 2022 - Nov 2025*)
+* Edu-Tech Start-Up **Mildang PT** Intern (*Nov 2021 - May 2022*)
+* **Human-Computer Interaction Lab (HCIL), EWHA** Undergraduate Intern (*Jun 2021 - Sep 2021*)
 
 ### 🍓Papers
 * [**Prompirit: Automatic Prompt Engineering Assistance for Improving AI-Generated Art Reflecting User Emotion**](https://sites.google.com/view/prompirit/)
@@ -18,10 +23,9 @@
 ### 🍓Tech Stack
 <div align=center>
   
-  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
   ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+  ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
   ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
   ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white)
@@ -37,5 +41,6 @@
 </div>
 
 ### 🍓Find Out More
-* Portfolio: https://gamddalki.github.io/hannahkim/
+* LinkedIn: https://www.linkedin.com/in/hannahk01
+* Portfolio: https://hannahkim.web.app
 * Email: hannahk01@ewha.ac.kr
