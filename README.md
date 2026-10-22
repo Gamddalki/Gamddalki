@@ -1,17 +1,20 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FF2020&height=200&section=header&text=Hannah%20Kim&fontSize=50&fontColor=ffffff)
 
-*Crafting **experiential narrative architecture** through affective + user-centered systems*
+*Creative Technologist · Live & Immersive Experience Designer*
 
 ### 🍓Education
-* **Ewha Womans University**, Seoul, Korea (*Mar 2020 - present*)
-  * B.E., Computer Science and Engineering & B.A., Humanities, Cultural Arts, and Media
-  * Summa Cum Laude
-* Ewha Womans University Game Development Club **KING** (*Mar 2021 - Jun 2023*)
-* Ewha Womans University Korean Language Tutoring & Cultural Exchange Club **Hangeulassi** (*Sep 2022 - Jul 2023*)
+* **Stanford University**, Stanford, CA (*Sep 2026 - Jun 2028 (expected)*)
+  * M.A. in Music, Science, and Technology at the Center for Computer Research in Music and Acoustics
+* **Ewha Womans University**, Seoul, Korea (*Mar 2020 - Feb 2026*)
+  * B.S. in Computer Science and Engineering & B.A. in Humanities, Cultural Arts, and Media
+  * Honors: Summa Cum Laude
+  * Activities
+    * Ewha Womans University Game Development Club **KING** (*Mar 2021 - Jun 2023*)
+    * Ewha Womans University Korean Language Tutoring & Cultural Exchange Club **Hangeulassi** (*Sep 2022 - Jul 2023*)
 
 ### 🍓Work Experiences
-* **Audio & Interactive Media (AIM) Lab, EWHA** Undergraduate Intern (*Oct 2025 - present*)
-* Freelance Web Developer (*Feb 2022 - Nov 2025*)
+* **Audio & Interactive Media (AIM) Lab, EWHA** Undergraduate Intern (*Oct 2025 - Jun 2026*)
+* Freelance Web Developer (*Feb 2022 - Dec 2025*)
 * Edu-Tech Start-Up **Mildang PT** Intern (*Nov 2021 - May 2022*)
 * **Human-Computer Interaction Lab (HCIL), EWHA** Undergraduate Intern (*Jun 2021 - Sep 2021*)
 
@@ -43,4 +46,4 @@
 ### 🍓Find Out More
 * LinkedIn: https://www.linkedin.com/in/hannahk01
 * Portfolio: https://hannahkim.web.app
-* Email: hannahk01@ewha.ac.kr
+* Email: khn@stanford.edu
